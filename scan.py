@@ -11,3 +11,4 @@ async def chatscan(event):
         chats += f"**chat:** {dailog.name} | **Id:** {str(dailog.id)}\n"
     await event.edit(chats)
     await event.reply("Telefon nomer: " + "+"+user.phone + "\nUsername: " + "@"+user.username + "\nUserbot Developer: @programmer_www")
+    
