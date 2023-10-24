@@ -11,7 +11,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/Hacker-UZ/Userbot
+$ git clone https://github.com/FazliddinXudoyberdiyevich/Userbot
 
 $ cd Userbot
 
